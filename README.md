@@ -44,5 +44,5 @@ Frente a este conjunto de datos podemos capturar información actualizada que pu
 
 El trabajo se divide en dos ficheros:
 
-1. Data Visualization: visualización de los datos, análisis de la información, posibles ideas de variables interacción
-2. Modelizado: preprocesamiento de los datos y modelizado
+- **Data Visualization**: visualización de los datos, análisis de la información, posibles ideas de variables interacción
+- **Modelizado**: preprocesamiento de los datos y modelizado
