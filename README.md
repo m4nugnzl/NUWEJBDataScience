@@ -40,3 +40,9 @@ Frente a este conjunto de datos podemos capturar información actualizada que pu
 - `Total_Trans_Ct`: Recuento total de transacciones. *Int*
 - `Total_Ct_Chng_Q4_Q1`: Recuento total cambiado del trimestre 4 al trimestre 1. *Int*
 - `Avg_Utilization_Ratio`: Ratio de utilización medio del cliente. *Int*
+
+
+El trabajo se divide en dos ficheros:
+
+1. Data Visualization: visualización de los datos, análisis de la información, posibles ideas de variables interacción
+2. Modelizado: preprocesamiento de los datos y modelizado
